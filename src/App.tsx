@@ -13,6 +13,7 @@ export default function App() {
     document.documentElement.classList.add('dark');
   }, []);
 
+
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Header />
