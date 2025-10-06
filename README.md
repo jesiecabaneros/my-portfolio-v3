@@ -8,4 +8,4 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  # my-portfolio-v3
+  # my-portfolio-v3 jesie cabaneros
